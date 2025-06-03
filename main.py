@@ -40,4 +40,4 @@ for im_name, im_time in images:
             break
 
 for i in result:
-    print(i)
+    print(i+1)
